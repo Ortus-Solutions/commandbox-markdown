@@ -1,0 +1,23 @@
+{
+    "name":"CommandBox Markdown",
+    "version":"1.0.0",
+    "author":"Ortus Solutions <info@ortussolutions.com>",
+    "homepage":"https://github.com/Ortus-Solutions/commandbox-markdown",
+    "repository":{
+        "type":"Git",
+        "url":"https://github.com/Ortus-Solutions/commandbox-markdown"
+    },
+    "bugs":"https://github.com/Ortus-Solutions/commandbox-markdown/issues",
+    "slug":"commandbox-markdown",
+    "description":"This is a CommandBox command called \"markdown\" that will convert markdown to HTML.",
+    "instructions":"Install via CommandBox by typing 'install commandbox-markdown'",
+    "type":"commandbox-modules",
+    "keywords":[
+        "markdown"
+    ],
+    "ignore":[
+        "*.md",
+        ".gitattributes"
+        ".gitignore"
+    ]
+}
